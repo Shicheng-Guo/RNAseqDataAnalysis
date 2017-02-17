@@ -2,4 +2,4 @@
 
 ### Database
 ### Tissue specific gene expression
-http://bioinfo.wilmer.jhu.edu/tiger/
+TiGER: http://bioinfo.wilmer.jhu.edu/tiger/
