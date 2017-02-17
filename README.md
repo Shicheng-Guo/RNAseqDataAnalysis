@@ -1,4 +1,4 @@
-## RNA-seq analysis based on existed dataset and software
+## RNA-seq Analysis Based on Existed Dataset and Software
 
 ### Database
 ### Tissue specific gene expression
